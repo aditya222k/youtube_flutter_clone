@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_youtube_ui/Screens/library_screen.dart';
 import 'package:flutter_youtube_ui/screens/home_screen.dart';
 import 'package:miniplayer/miniplayer.dart';
 
@@ -25,7 +26,8 @@ class _NavScreenState extends State<NavScreen> {
     const Scaffold(body: Center(child: Text('Explore'))),
     const Scaffold(body: Center(child: Text('Add'))),
     const Scaffold(body: Center(child: Text('Subscriptions'))),
-    const Scaffold(body: Center(child: Text('Library'))),
+    // const Scaffold(body: Center(child: Text('Library'))),
+    LibraryScreen(),
   ];
 
   @override

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/adityarai/Desktop/Local Clone/youtube_clone/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/adityarai/Desktop/Local Clone/youtube_flutter_clone/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/adityarai/.gradle/caches/transforms-2/files-2.1/768c895abb10a2b238ee6d9ecf974870/lifecycle-runtime-2.3.1/res/values/values.xml",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/adityarai/Desktop/Local Clone/youtube_clone/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/adityarai/Desktop/Local Clone/youtube_flutter_clone/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -6,6 +6,8 @@ import 'package:flutter_youtube_ui/Screens/video_details.dart';
 import './Screens/nav_screen.dart';
 import 'package:easy_splash_screen/easy_splash_screen.dart';
 
+import 'Screens/library_screen.dart';
+
 void main() {
   runApp(ProviderScope(child: MyApp()));
 }
@@ -31,7 +33,6 @@ class MyApp extends StatelessWidget {
         showLoader: false,
       ),
       routes: {
-        // VideoScreen.id: (context) => VideoScreen(),
         VideoDetails.id: (context) => VideoDetails(),
       },
     );

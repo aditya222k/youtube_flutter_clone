@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/adityarai/Desktop/Local Clone/youtube_clone/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/Users/adityarai/Desktop/Local Clone/youtube_flutter_clone/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/Users/adityarai/.gradle/caches/transforms-2/files-2.1/43eb8f5d4bb09492b3e6ba0e4818aae4/jetified-exoplayer-core-2.17.1/res/values-kk/values-kk.xml",

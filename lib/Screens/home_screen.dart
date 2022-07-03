@@ -52,6 +52,8 @@ class _HomeScreenState extends State<HomeScreen> {
                               });
                         },
                         child: Card(
+                          shadowColor: Colors.transparent,
+                          color: Colors.transparent,
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             crossAxisAlignment: CrossAxisAlignment.center,
