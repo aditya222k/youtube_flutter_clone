@@ -1,0 +1,41 @@
+name: flutter_youtube_ui
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod: ^0.13.1+1
+  miniplayer: ^1.0.0+2
+  timeago: ^3.0.2
+  chewie: ^1.3.4
+  video_player: ^2.4.5
+  inview_notifier_list: ^3.0.0
+  flutter_launcher_icons: ^0.9.3
+  easy_splash_screen: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter_icons:
+  image_path: "assets/youtubeicon.png" 
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/yt_logo_dark.png
+    - assets/dataset.json
+    - assets/yellowclass.png
+    - assets/youtubeicon.png
