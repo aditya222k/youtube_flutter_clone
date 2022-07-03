@@ -1,16 +1,12 @@
-# youtube_clone
+## Youtube Clone
+This a clone youtube app built using flutter and dart with autplaying feature whenever a user stops scrolling!
 
-A new Flutter project.
 
-## Getting Started
+### Built With
 
-This project is a starting point for a Flutter application.
+* [Flutter](https://flutter.dev/)
+* [Dart](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Check out this project ✨
+Youtube Clone Link: [Click here to get the apk](https://drive.google.com/file/d/1A6iLs676e6XMtN5gZ3_qMiqSF-ObWqEN/view?usp=sharing)
